@@ -69,3 +69,14 @@ Replace the `sqlite-jdbc` dependency with `mysql-connector-j`, change `URL` in `
 - Login with librarian / member roles
 - Book reservations and renewal
 - Export overdue report to CSV/PDF
+
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](Screenshot%202026-10-13%20004641.png)
+
+### Screenshot 2
+![Screenshot 2](Screenshot%202026-10-13%20004652.png)
+
+### Screenshot 3
+![Screenshot 3](Screenshot%202026-10-13%20004702.png)
